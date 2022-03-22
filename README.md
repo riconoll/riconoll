@@ -4,11 +4,13 @@ I'm Data Analyst who's passionate about problem-solving and decision-making thro
 ## Here are some of the projects I've worked on so far...
 
 ### [Capstone Project <i>(Bike Accidents in Great Britain)</i>](https://github.com/riconoll/CapstoneProject)
-Data Exploration using Python and Python through Jupyter Notebook, SQL and Tabluea.
+Data Exploration using Python and Python Libraries through Jupyter Notebook, BiqQuery, SQL and Tabluea.
 
 ### [Player Rentention <i>(Mobile Gaming App)</i>](https://github.com/riconoll/PlayerRentention_Analysis)
 Data Exploration using Google Sheets, Pivot Tables and SQL
 
+### [Waiter's Tips](https://github.com/riconoll/WaiterTips)
+Data Exploration using Python and Python Library
 
 
 
