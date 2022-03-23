@@ -33,7 +33,7 @@ Bootcamp Data Analyst Graduate @ [Juno College of Technology](https://junocolleg
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  
 
 ## Contact Me!
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jonjon.riconoll@gmail.com)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonjon.riconoll@gmail.com)
 
 
 
