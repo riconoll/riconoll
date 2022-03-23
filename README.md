@@ -5,7 +5,6 @@ I'm Data Analyst who's passionate about problem-solving and decision-making thro
 
 ### [Capstone Project <i>(Bike Accidents in Great Britain)</i>](https://github.com/riconoll/CapstoneProject)
 Data Exploration using Python and Python Libraries through Jupyter Notebook, and BigQuery SQL  
-
 Data Visual Exploration using Tableau 
 
 ### [Player Rentention <i>(Mobile Gaming App)</i>](https://github.com/riconoll/PlayerRentention_Analysis)
